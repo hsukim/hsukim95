@@ -1,3 +1,3 @@
 # hsukim95
 
-modify 
+modify https://github.com/hsukim/hsukim95.git
